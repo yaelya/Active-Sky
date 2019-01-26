@@ -1,4 +1,4 @@
-# Active Flight
+# Active Sky
 Sharing information about the destination of the flight between passengers.
 
 * Yael Yazdi
