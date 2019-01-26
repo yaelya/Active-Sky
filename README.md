@@ -11,9 +11,9 @@ Optional: Display the recommender's data next to his comment so that they can ge
 
 ## Screenshots
 ### START
-![START](https://github.com/Elevationacademy/excellenteam-hackathon-ella-active-flight-y-s-s/blob/master/screenshots/qr.PNG)
+![START](https://github.com/Elevationacademy/excellenteam-hackathon-ella-active-flight-y-s-s/blob/master/screenshots/start.PNG)
 ### QR
-![QR](https://github.com/Elevationacademy/excellenteam-hackathon-ella-active-flight-y-s-s/blob/master/screenshots/start.PNG)
+![QR](https://github.com/Elevationacademy/excellenteam-hackathon-ella-active-flight-y-s-s/blob/master/screenshots/qr.PNG)
 ### PHONE
 ![PHONE](https://github.com/Elevationacademy/excellenteam-hackathon-ella-active-flight-y-s-s/blob/master/screenshots/phone.PNG)
 ### MAIN WITH VIDO
